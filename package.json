@@ -1,0 +1,14 @@
+{
+  "name": "web-aut-karlis-ivars-brakis-final-task",
+  "version": "1.0.0",
+  "description": "Final Task - Web Automation with Cypress and Page Object Model",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run",
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^16.3.0"
+  }
+}
